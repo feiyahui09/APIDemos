@@ -25,8 +25,9 @@ import android.os.Bundle;
 import android.os.Vibrator;
 import android.view.View;
 import android.widget.TextView;
-import com.example.android.apis.R;
 
+import com.example.android.apis.R;
+  
 /**
  * <h3>App that vibrates the vibrator with the Morse Code for a string.</h3>
 
