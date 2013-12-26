@@ -17,7 +17,7 @@
 package com.example.android.apis.os;
 
 // Need the following import to get access to the app resources, since this
-// class is in a sub-package.
+//so this is the master !!
 
 import android.app.Activity;
 import android.content.Context;
